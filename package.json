@@ -1,0 +1,15 @@
+{
+  "name": "platzigram",
+  "version": "1.0.0",
+  "description": "Proyecto de prueba Platzigram",
+  "main": "server.js",
+  "keywords": [
+    "platzigram",
+    "js"
+  ],
+  "author": "Enrique Nieto",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.5"
+  }
+}
